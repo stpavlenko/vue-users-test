@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+https://stpavlenko-vue-users-test.netlify.app/
+
 ## Build Setup
 
 ``` bash
@@ -18,4 +20,5 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/)
+and [docs for vue-loader](http://vuejs.github.io/vue-loader).
