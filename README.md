@@ -1,8 +1,11 @@
-# vue-test
+## Техническое задание
 
-> A Vue.js project
-
-https://stpavlenko-vue-users-test.netlify.app/
+- Создайте таблицу и кнопку, вызывающую модальное окно с формой.
+- Сохраняйте данные из формы в таблицу. Данные должны сохраняться в LocalStorage при обновлении страницы.
+- Добавьте в форму select с выбором родителя (любого из уже сохранённых пользователей).
+- Добавьте в таблицу поддержку вложенных уровней. Глубина вложенности должна быть неограниченной, то есть родителем
+  может быть любой существующий пользователь.
+- Добавьте сортировку данных в таблице по клику на заголовок колонки; сортировка должна работать по подуровням.
 
 ## Build Setup
 
@@ -20,5 +23,4 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/)
-and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+https://stpavlenko-vue-users-test.netlify.app/
